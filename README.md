@@ -43,9 +43,21 @@ In Descriptive statistics, we are describing our data with the help of various r
 
 ### Data Analysis
 
-pivot table
+ Excel pivot table - Pivot table allows us to quickly explore and analyze raw data.
+
+1. What is the best-selling product?
+
+![Best selling](https://github.com/pratiraut/Fast-Food-chain-analysis/assets/146583441/02b9c7b5-90be-4813-9e77-58c8c114d669)
 
 
+2. Total Revenue -
+
+![Total Revenue](https://github.com/pratiraut/Fast-Food-chain-analysis/assets/146583441/00f941b2-4e2a-457a-bb72-328af30e14a4)
+
+
+3. Revenue breakdown by Payment method -
+
+![by Payment method](https://github.com/pratiraut/Fast-Food-chain-analysis/assets/146583441/df329f2f-c0b9-499f-8da2-5ff2d2e53e2e)
 
 
 ### Dashboard
