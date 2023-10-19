@@ -40,6 +40,9 @@ In Descriptive statistics, we are describing our data with the help of various r
 
 ![Outliners](https://github.com/pratiraut/Fast-Food-chain-analysis/assets/146583441/05cc5faf-6488-44bb-a46d-debd296f8e42)
 
+- Box represents the first and the third quartile.
+- Dots which represent all of the outliners in price.
+- It seems to be that all of these outliers are accumulated with manager Joao Sliva, maybe we should have a word with him.
 
 ### Data Analysis
 
@@ -61,9 +64,23 @@ In Descriptive statistics, we are describing our data with the help of various r
 
 
 ### Dashboard
-Concussion and recommendations
-In the other 4 countries, we see the beverage  is the top seller but in Paris, we can see that the fries are the top seller. 
-Adding fries in the combo may increase all the other fast food items on the list. 
 
-Or giving them the offer of  getting extra fries on the minimum purchase amount of the entire menu. So that they can generate the test of other items as well
+A dashboard is a visual representation of KPIs, key business metrics, and other complex data in a way that’s easy to understand.
+
+To make it dynamic I also added slicers for cities.
+Slicers apply filters for tables, pivot tables, and pivot charts. They are widely used for creating dashboards that display the summary report of the table. 
+
+Slicers indicate the current filtering state, making it easier to understand what is currently displayed. 
+
+![Dash](https://github.com/pratiraut/Fast-Food-chain-analysis/assets/146583441/643b0b90-8f4d-4c36-9813-5d03dbb2e2f1)
+
+## Concussion and recommendations
+
+- In the other 4 countries, we see the beverages are the top seller. 
+- But, In Paris, we can see that the fries are the top seller. 
+
+Recommendations : 
+
+Adding fries in the combo may increase all the other fast food items on the list. 
+And giving them the offer of  getting extra fries on the minimum purchase amount of the entire menu. So that they can generate the test of other items as well.
 
