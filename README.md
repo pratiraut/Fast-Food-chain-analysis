@@ -3,6 +3,13 @@
 ## Introduction
 This repo contains the data analysis process on a fast food chain which is having their branches in 5 different cities. Presenting the data in a storytelling/visualization manner so stakeholders and board person understand the data in a simple way.  To make a data-driven decision. 
 
+Learnings:
+1. Business Knowledge and terms
+2. Data Cleaning and Transformation.
+3. Data Modelling.
+4. Using Power Query, Power Pivot and Pivot Tables
+5. Creating empathetic reports.
+
 ## Process
 
 - Data Cleaning
