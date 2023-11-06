@@ -6,7 +6,7 @@ This repo contains the data analysis process on a fast food chain which is havin
 Learnings:
 1. Business Knowledge and terms
 2. Data Cleaning and Transformation.
-3. Data Modelling.
+3. Statistics.
 4. Using Power Query, Power Pivot and Pivot Tables
 5. Creating empathetic reports.
 
